@@ -1,1 +1,1 @@
-C:\Users\A\Source\Repos\YorN2\YorN\YorN\YorN.WindowsPhone\YorN.WindowsPhone.csproj;neutral
+C:\Users\byoshi\Source\Repos\YorN\YorN\YorN\YorN.WindowsPhone\YorN.WindowsPhone.csproj;neutral

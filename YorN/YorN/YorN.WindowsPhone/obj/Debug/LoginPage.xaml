@@ -9,12 +9,13 @@
 
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
         <Grid.RowDefinitions>
-            <RowDefinition Height="1*"/>
+            <RowDefinition Height="2*"/>
             <RowDefinition Height="8*"/>
         </Grid.RowDefinitions>
-        <TextBlock Name="SignUpText" FontFamily="Helvetica" FontWeight="SemiBold" FontSize="20" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="1">Sign Up</TextBlock>
-        <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="2">
+        <TextBlock Name="SignUpText" FontFamily="Helvetica" FontWeight="SemiBold" FontSize="40" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="0">Sign Up</TextBlock>
+        <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="1">
             <Grid.RowDefinitions>
+                <RowDefinition Height="50"/>
                 <RowDefinition Height="50"/>
                 <RowDefinition Height="50"/>
             </Grid.RowDefinitions>
@@ -23,9 +24,10 @@
                 <ColumnDefinition Width="250"/>
             </Grid.ColumnDefinitions>
             <TextBlock Name="UsernameText" FontFamily="Helvetica" FontWeight="SemiBold" FontSize="20" VerticalAlignment="Center">Username</TextBlock>
-            <TextBox Name="UsernameBox" FontFamily="Helvetica" MaxLength="50" BorderThickness="1" BorderBrush="White" Width="200" Height ="25" Grid.Column="2"></TextBox>
-            <TextBlock Name="PasswordText" FontFamily="Helvetica" FontWeight="SemiBold" FontSize="20" VerticalAlignment="Center" Grid.Row="2">Password</TextBlock>
-            <TextBox Name="PasswordBox" FontFamily="Helvetica" MaxLength="50" BorderThickness="1" BorderBrush="White" Width="200" Height ="25" Grid.Row="2" Grid.Column="2"></TextBox>
+            <TextBox Name="UsernameBox" FontFamily="Helvetica" MaxLength="50" BorderThickness="1" BorderBrush="White" Width="200" Height ="25" Grid.Column="1"></TextBox>
+            <TextBlock Name="PasswordText" FontFamily="Helvetica" FontWeight="SemiBold" FontSize="20" VerticalAlignment="Center" Grid.Row="1">Password</TextBlock>
+            <TextBox Name="PasswordBox" FontFamily="Helvetica" MaxLength="50" BorderThickness="1" BorderBrush="White" Width="200" Height ="25" Grid.Row="1" Grid.Column="1"></TextBox>
+            <Button x:ConnectionId='1' Name="Submit"                    ClickMode="Release" FontSize="20" Grid.Row="2" Grid.Column="1">Submit</Button>
         </Grid>
     </Grid>
 </Page>

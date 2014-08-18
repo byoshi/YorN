@@ -42,6 +42,14 @@
       <RootProperty Name="Width" />
       <RootProperty Name="Height" />
     </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Button">
+      <RootProperty Name="Name" />
+      <RootProperty Name="ClickMode" />
+      <RootProperty Name="FontSize" />
+      <RootProperty Name="Content" />
+      <RootEvent Name="Click" />
+    </RootType>
     <RootType FullName="YorN.LoginPage" />
+    <RootType FullName="YorN.NewQuestionPage" />
   </Roots.RootTypes>
 </Roots>

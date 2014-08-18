@@ -12,6 +12,7 @@ using Windows.UI.Xaml.Data;
 using Windows.UI.Xaml.Input;
 using Windows.UI.Xaml.Media;
 using Windows.UI.Xaml.Navigation;
+using Windows.Web.Http;
 
 // The Blank Page item template is documented at http://go.microsoft.com/fwlink/?LinkId=234238
 
@@ -27,9 +28,9 @@ namespace YorN
             this.InitializeComponent();
         }
 
-        public void CreateUser()
+        public void CreateUser(Object sender,RoutedEventArgs e)
         {
-
+            return;
         }
     }
 }
