@@ -99,3 +99,8 @@ C:\Users\A\Source\Repos\YorN2\YorN\YorN\YorN.WindowsPhone\obj\Debug\qualifiers.t
 C:\Users\A\Source\Repos\YorN2\YorN\YorN\YorN.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
 C:\Users\A\Source\Repos\YorN2\YorN\YorN\YorN.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
 C:\Users\A\Source\Repos\YorN2\YorN\YorN\YorN.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+C:\Users\A\Source\Repos\YorN2\YorN\YorN\YorN.WindowsPhone\bin\Debug\NewQuestionPage.xbf
+C:\Users\A\Source\Repos\YorN2\YorN\YorN\YorN.WindowsPhone\obj\Debug\NewQuestionPage.g.i.cs
+C:\Users\A\Source\Repos\YorN2\YorN\YorN\YorN.WindowsPhone\obj\Debug\NewQuestionPage.g.cs
+C:\Users\A\Source\Repos\YorN2\YorN\YorN\YorN.WindowsPhone\obj\Debug\NewQuestionPage.xaml
+C:\Users\A\Source\Repos\YorN2\YorN\YorN\YorN.WindowsPhone\obj\Debug\NewQuestionPage.xbf

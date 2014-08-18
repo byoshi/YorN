@@ -49,6 +49,9 @@
     <AppxPackagedFile Include="C:\Users\A\Source\Repos\YorN2\YorN\YorN\YorN.WindowsPhone\bin\Debug\LoginPage.xbf">
       <PackagePath>LoginPage.xbf</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\A\Source\Repos\YorN2\YorN\YorN\YorN.WindowsPhone\bin\Debug\NewQuestionPage.xbf">
+      <PackagePath>NewQuestionPage.xbf</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\A\Source\Repos\YorN2\YorN\YorN\YorN.WindowsPhone\bin\Debug\YorN.WindowsPhone.xr.xml">
       <PackagePath>YorN.WindowsPhone.xr.xml</PackagePath>
     </AppxPackagedFile>
