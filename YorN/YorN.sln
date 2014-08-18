@@ -11,13 +11,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YorN.Windows", "YorN\YorN.W
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YorN.WindowsPhone", "YorN\YorN.WindowsPhone\YorN.WindowsPhone.csproj", "{877EFB41-95A2-4DC7-B36C-728B1ED05473}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YorNService", "..\..\..\..\Downloads\YorN\YorNService\YorNService.csproj", "{209FA716-A7AD-4095-BD70-C8710FC66FA7}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{8754C1C7-E4C0-4C8B-AE77-2DE28DA037FF}"
 	ProjectSection(SolutionItems) = preProject
-		..\..\..\..\Downloads\YorN\.nuget\NuGet.Config = ..\..\..\..\Downloads\YorN\.nuget\NuGet.Config
-		..\..\..\..\Downloads\YorN\.nuget\NuGet.targets = ..\..\..\..\Downloads\YorN\.nuget\NuGet.targets
+		..\.nuget\NuGet.Config = ..\.nuget\NuGet.Config
+		..\.nuget\NuGet.targets = ..\.nuget\NuGet.targets
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YorNService", "..\YorNService\YorNService.csproj", "{209FA716-A7AD-4095-BD70-C8710FC66FA7}"
 EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
