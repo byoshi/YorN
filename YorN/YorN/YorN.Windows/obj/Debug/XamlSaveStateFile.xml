@@ -1,6 +1,6 @@
 <XamlCompilerSaveState>
   <ReferenceAssemblyList>
-    <LocalAssembly PathName="c:\users\byoshi\source\repos\yorn\yorn\yorn\yorn.windows\obj\debug\intermediatexaml\yorn.windows.exe" HashGuid="8a7f17f5-cf8c-9deb-5658-18f3ec3813ee" />
+    <LocalAssembly PathName="c:\users\byoshi\source\repos\yorn\yorn\yorn\yorn.windows\obj\debug\intermediatexaml\yorn.windows.exe" HashGuid="599f14fb-71b2-9d47-7c3f-cd2b93580f6f" />
     <ReferenceAssembly PathName="c:\users\byoshi\source\repos\yorn\yorn\packages\microsoft.data.edm.5.6.0\lib\portable-net40+sl5+wp8+win8\microsoft.data.edm.portable.dll" HashGuid="f045e1a5-0e06-a083-1449-ff381767d07b" />
     <ReferenceAssembly PathName="c:\users\byoshi\source\repos\yorn\yorn\packages\microsoft.data.odata.5.6.0\lib\portable-net40+sl5+wp8+win8\microsoft.data.odata.portable.dll" HashGuid="286ad8e6-6a8c-62c8-4d27-161dd3caf466" />
     <ReferenceAssembly PathName="c:\users\byoshi\source\repos\yorn\yorn\packages\windowsazure.mobileservices.1.2.3\lib\netcore45\microsoft.windowsazure.mobile.dll" HashGuid="34256b33-cc8e-2288-b763-2d97aff3ed18" />

@@ -12,7 +12,6 @@ using Windows.UI.Xaml.Data;
 using Windows.UI.Xaml.Input;
 using Windows.UI.Xaml.Media;
 using Windows.UI.Xaml.Navigation;
-using Windows.Web.Http;
 
 // The Blank Page item template is documented at http://go.microsoft.com/fwlink/?LinkId=234238
 
@@ -28,9 +27,16 @@ namespace YorN
             this.InitializeComponent();
         }
 
-        public void CreateUser(Object sender,RoutedEventArgs e)
+        public void CreateUser(Object sender, RoutedEventArgs e)
         {
-            return;
+            User user = new User
+            {
+                Username = UsernameBox.Text,
+                Password = PasswordBox.Text,
+                ID = new int()
+            };
+
+            App.MobileService.GetTable<User>().InsertAsync(user);
         }
     }
 }
