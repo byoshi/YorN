@@ -26,5 +26,10 @@ namespace YorN
         {
             this.InitializeComponent();
         }
+
+        public void CreateUser()
+        {
+
+        }
     }
 }
