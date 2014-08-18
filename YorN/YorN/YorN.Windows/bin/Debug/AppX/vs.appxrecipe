@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>EPSILON-PC</Machine>
+    <WindowsUser>A</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>f615bd2e-0a25-4a3a-bd4d-b6e9ec1be562</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\A\Source\Repos\YorN2\YorN\YorN\YorN.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>4A71427C16C255C06F6FB1C0F87EDD05F27F0466BE305BB58347CABC1BF65D24</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>f615bd2e-0a25-4a3a-bd4d-b6e9ec1be562_1.0.0.0_neutral__ge4sw5tjq8a7g</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>f615bd2e-0a25-4a3a-bd4d-b6e9ec1be562_ge4sw5tjq8a7g!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>f615bd2e-0a25-4a3a-bd4d-b6e9ec1be562</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=byoshi</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\A\Source\Repos\YorN2\YorN\YorN\YorN.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-08-18T04:46:58.982</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\A\Source\Repos\YorN2\YorN\YorN\YorN.Windows\bin\Debug\YorN.Windows.exe">
+      <PackagePath>YorN.Windows.exe</PackagePath>
+      <Modified>2014-08-18T04:46:58.526</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\A\Source\Repos\YorN2\YorN\YorN\YorN.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-08-18T01:07:21.702</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\A\Source\Repos\YorN2\YorN\YorN\YorN.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-08-18T01:07:21.706</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\A\Source\Repos\YorN2\YorN\YorN\YorN.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-08-18T01:07:21.710</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\A\Source\Repos\YorN2\YorN\YorN\YorN.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-08-18T01:07:21.713</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\A\Source\Repos\YorN2\YorN\YorN\YorN.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-08-18T03:44:53.211</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\A\Source\Repos\YorN2\YorN\YorN\YorN.Windows\bin\Debug\LoginPage.xbf">
+      <PackagePath>LoginPage.xbf</PackagePath>
+      <Modified>2014-08-18T03:44:53.211</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\A\Source\Repos\YorN2\YorN\YorN\YorN.Windows\bin\Debug\NewQuestionPage.xbf">
+      <PackagePath>NewQuestionPage.xbf</PackagePath>
+      <Modified>2014-08-18T04:46:58.382</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\A\Source\Repos\YorN2\YorN\YorN\YorN.Windows\bin\Debug\YorN.Windows.xr.xml">
+      <PackagePath>YorN.Windows.xr.xml</PackagePath>
+      <Modified>2014-08-18T04:46:58.369</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\A\Source\Repos\YorN2\YorN\YorN\YorN.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-08-18T04:46:58.586</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
