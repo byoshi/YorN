@@ -26,5 +26,17 @@ namespace YorN
         {
             this.InitializeComponent();
         }
+
+        public void CreateUser(Object sender, RoutedEventArgs e)
+        {
+            User user = new User
+            {
+                Username = UsernameBox.Text,
+                Password = PasswordBox.Text,
+                ID = new int()
+            };
+
+            App.MobileService.GetTable<User>().InsertAsync(user);
+        }
     }
 }

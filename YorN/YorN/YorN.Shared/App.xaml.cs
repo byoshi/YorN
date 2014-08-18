@@ -1,8 +1,10 @@
-﻿using System;
+﻿using Microsoft.WindowsAzure.MobileServices;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Runtime.InteropServices.WindowsRuntime;
+using System.Threading.Tasks;
 using Windows.ApplicationModel;
 using Windows.ApplicationModel.Activation;
 using Windows.Foundation;
@@ -132,6 +134,15 @@ namespace YorN
 
             // TODO: Save application state and stop any background activity
             deferral.Complete();
+        }
+
+        public static MobileServiceClient MobileService = new MobileServiceClient("https://yorn.azure-mobile.net/", "gaQrONIlGIMJJHufOsaXJqJAwdCQvU90");
+
+        private async Task<User> StoreData()
+        {
+            User item = new User { Username = "user1", Password = "passss" };
+            await App.MobileService.GetTable<User>().InsertAsync(item);
+            return item;
         }
     }
 }

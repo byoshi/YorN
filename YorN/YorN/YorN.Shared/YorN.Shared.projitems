@@ -21,6 +21,7 @@
     <Compile Include="$(MSBuildThisFileDirectory)NewQuestionPage.xaml.cs">
       <DependentUpon>NewQuestionPage.xaml</DependentUpon>
     </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)User.cs" />
   </ItemGroup>
   <ItemGroup>
     <Page Include="$(MSBuildThisFileDirectory)LoginPage.xaml">
