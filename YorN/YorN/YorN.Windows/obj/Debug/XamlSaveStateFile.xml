@@ -1,5 +1,14 @@
 <XamlCompilerSaveState>
   <ReferenceAssemblyList>
-    <LocalAssembly PathName="c:\users\byoshi\source\repos\yorn\yorn\yorn\yorn.windows\obj\debug\intermediatexaml\yorn.windows.exe" HashGuid="599f14fb-71b2-9d47-7c3f-cd2b93580f6f" />
+    <LocalAssembly PathName="c:\users\byoshi\source\repos\yorn\yorn\yorn\yorn.windows\obj\debug\intermediatexaml\yorn.windows.exe" HashGuid="570bdf42-649c-57e5-2142-c291150544a7" />
+    <ReferenceAssembly PathName="c:\users\a\source\repos\yorn2\yorn\packages\microsoft.data.edm.5.6.0\lib\portable-net40+sl5+wp8+win8\microsoft.data.edm.portable.dll" HashGuid="f045e1a5-0e06-a083-1449-ff381767d07b" />
+    <ReferenceAssembly PathName="c:\users\a\source\repos\yorn2\yorn\packages\microsoft.data.odata.5.6.0\lib\portable-net40+sl5+wp8+win8\microsoft.data.odata.portable.dll" HashGuid="286ad8e6-6a8c-62c8-4d27-161dd3caf466" />
+    <ReferenceAssembly PathName="c:\users\a\source\repos\yorn2\yorn\packages\windowsazure.mobileservices.1.2.3\lib\netcore45\microsoft.windowsazure.mobile.dll" HashGuid="34256b33-cc8e-2288-b763-2d97aff3ed18" />
+    <ReferenceAssembly PathName="c:\users\a\source\repos\yorn2\yorn\packages\windowsazure.mobileservices.1.2.3\lib\netcore45\microsoft.windowsazure.mobile.ext.dll" HashGuid="1e08b957-f46d-d998-e20b-8e02a45690d1" />
+    <ReferenceAssembly PathName="c:\users\a\source\repos\yorn2\yorn\packages\windowsazure.storage.4.2.1\lib\win8\microsoft.windowsazure.storage.dll" HashGuid="4f626d90-e36b-e0be-8ef3-a0b1e1d4e5aa" />
+    <ReferenceAssembly PathName="c:\users\a\source\repos\yorn2\yorn\packages\newtonsoft.json.6.0.2\lib\netcore45\newtonsoft.json.dll" HashGuid="c0bdbe7e-751e-5b53-c95e-5146b6c473bc" />
+    <ReferenceAssembly PathName="c:\users\a\source\repos\yorn2\yorn\packages\microsoft.net.http.2.2.19\lib\win8\system.net.http.extensions.dll" HashGuid="b50282f8-b9f8-4408-8d49-ba2efe301624" />
+    <ReferenceAssembly PathName="c:\users\a\source\repos\yorn2\yorn\packages\microsoft.net.http.2.2.19\lib\win8\system.net.http.primitives.dll" HashGuid="7b71418d-e056-7613-c839-85fb8f6472a6" />
+    <ReferenceAssembly PathName="c:\users\a\source\repos\yorn2\yorn\packages\system.spatial.5.6.0\lib\portable-net40+sl5+wp8+win8\system.spatial.portable.dll" HashGuid="5fe7c047-94c0-1029-eb83-ede093ee2841" />
   </ReferenceAssemblyList>
 </XamlCompilerSaveState>

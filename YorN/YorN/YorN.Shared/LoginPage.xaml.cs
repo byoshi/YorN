@@ -32,7 +32,7 @@ namespace YorN
             User user = new User
             {
                 Username = UsernameBox.Text,
-                Password = PasswordBox.Text,
+                Password = PasswordBox.Password,
                 ID = new int()
             };
 
