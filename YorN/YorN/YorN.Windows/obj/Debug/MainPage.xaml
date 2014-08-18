@@ -8,12 +8,7 @@
     mc:Ignorable="d">
 
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
-        <Grid.RowDefinitions>
-            <RowDefinition Height="100"/>
-            <RowDefinition Height="200"/>
-        </Grid.RowDefinitions>
-        <TextBlock Name="SignUpText" FontFamily="Helvetica" FontWeight="SemiBold" FontSize="20" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="1">Sign Up</TextBlock>
-        <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="2">
+        <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" VerticalAlignment="Center" HorizontalAlignment="Center">
             <Grid.RowDefinitions>
                 <RowDefinition Height="50"/>
                 <RowDefinition Height="50"/>
@@ -29,3 +24,4 @@
         </Grid>
     </Grid>
 </Page>
+

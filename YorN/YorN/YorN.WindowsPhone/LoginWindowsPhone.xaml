@@ -9,9 +9,9 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <Grid>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="151,483,0,0" VerticalAlignment="Top"/>
-        <TextBox HorizontalAlignment="Left" Margin="101,192,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top"/>
-        <TextBlock HorizontalAlignment="Left" Margin="79,155,0,0" TextWrapping="Wrap" Text="Email" VerticalAlignment="Top" Height="32" Width="111"/>
+        <Button Content="Login" HorizontalAlignment="Left" Margin="150,253,0,0" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Margin="67,111,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="273" PlaceholderText="Email"/>
+        <TextBox HorizontalAlignment="Left" Margin="67,176,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="273" PlaceholderText="Password"/>
 
     </Grid>
 </Page>
