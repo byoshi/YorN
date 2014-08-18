@@ -46,11 +46,8 @@
     <AppxPackagedFile Include="C:\Users\A\Source\Repos\YorN2\YorN\YorN\YorN.WindowsPhone\bin\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\A\Source\Repos\YorN2\YorN\YorN\YorN.WindowsPhone\bin\Debug\LoginWindowsPhone.xbf">
-      <PackagePath>LoginWindowsPhone.xbf</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\A\Source\Repos\YorN2\YorN\YorN\YorN.WindowsPhone\bin\Debug\MainPage.xbf">
-      <PackagePath>MainPage.xbf</PackagePath>
+    <AppxPackagedFile Include="C:\Users\A\Source\Repos\YorN2\YorN\YorN\YorN.WindowsPhone\bin\Debug\LoginPage.xbf">
+      <PackagePath>LoginPage.xbf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\A\Source\Repos\YorN2\YorN\YorN\YorN.WindowsPhone\bin\Debug\YorN.WindowsPhone.xr.xml">
       <PackagePath>YorN.WindowsPhone.xr.xml</PackagePath>
