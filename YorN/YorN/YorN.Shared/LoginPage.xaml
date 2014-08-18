@@ -26,7 +26,7 @@
             <TextBlock Name="UsernameText" FontFamily="Helvetica" FontWeight="SemiBold" FontSize="20" VerticalAlignment="Center">Username</TextBlock>
             <TextBox Name="UsernameBox" FontFamily="Helvetica" MaxLength="50" BorderThickness="1" BorderBrush="White" Width="200" Height ="25" Grid.Column="1"></TextBox>
             <TextBlock Name="PasswordText" FontFamily="Helvetica" FontWeight="SemiBold" FontSize="20" VerticalAlignment="Center" Grid.Row="1">Password</TextBlock>
-            <TextBox Name="PasswordBox" FontFamily="Helvetica" MaxLength="50" BorderThickness="1" BorderBrush="White" Width="200" Height ="25" Grid.Row="1" Grid.Column="1"></TextBox>
+            <PasswordBox Name="PasswordBox" FontFamily="Helvetica" MaxLength="50" BorderThickness="1" BorderBrush="White" Width="200" Height ="25" Grid.Row="1" Grid.Column="1"></PasswordBox>
             <Button Name="Submit" Click="CreateUser" ClickMode="Release" FontSize="20" Grid.Row="2" Grid.Column="1">Submit</Button>
         </Grid>
     </Grid>
