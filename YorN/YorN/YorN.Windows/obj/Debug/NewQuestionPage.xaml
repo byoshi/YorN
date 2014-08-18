@@ -11,13 +11,13 @@
     <Page.Resources>
  <Style TargetType="Hub">
             <Setter Property="FontFamily" Value="Segoe UI"/>
-            <Setter Property="FontSize" Value="5"/>
-            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="FontSize" Value="18"/>
+            <Setter Property="Foreground" Value="white"/>
             
         </Style>
         <Style TargetType="HubSection">
             <Setter Property="FontFamily" Value="Segoe UI"/>
-            <Setter Property="FontSize" Value="2"/>
+            <Setter Property="FontSize" Value="5"/>
             <Setter Property="Foreground" Value="White"/>
         </Style>
        
@@ -27,7 +27,15 @@
     
     <Hub  Header="YorN"  Background="#FF003559" >
         <HubSection  Width="auto" Header="New Question" >
-          
+            <DataTemplate>
+                <Grid>
+                    <TextBlock Text="Type your question in here:" Margin="0" HorizontalAlignment="Left" FontSize="14" Canvas.ZIndex="2" >
+                        
+                    </TextBlock>
+                    <TextBox PlaceholderText="Type your question in here." VerticalAlignment="Top" HorizontalAlignment="Left" Canvas.ZIndex="2"/>
+                    
+                </Grid>
+            </DataTemplate>
         </HubSection>
 
         <HubSection  Width="auto" Header="Answer Questions" >
