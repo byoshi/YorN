@@ -63,7 +63,6 @@ C:\Users\A\Source\Repos\YorN2\YorN\YorN\YorN.WindowsPhone\obj\Debug\qualifiers.t
 C:\Users\A\Source\Repos\YorN2\YorN\YorN\YorN.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
 C:\Users\A\Source\Repos\YorN2\YorN\YorN\YorN.WindowsPhone\obj\Debug\ProjectArchitectures.txt
 C:\Users\byoshi\Source\Repos\YorN\YorN\YorN\YorN.WindowsPhone\bin\Debug\App.xbf
-C:\Users\byoshi\Source\Repos\YorN\YorN\YorN\YorN.WindowsPhone\bin\Debug\LoginPage.xbf
 C:\Users\byoshi\Source\Repos\YorN\YorN\YorN\YorN.WindowsPhone\bin\Debug\NewQuestionPage.xbf
 C:\Users\byoshi\Source\Repos\YorN\YorN\YorN\YorN.WindowsPhone\bin\Debug\YorN.WindowsPhone.xr.xml
 C:\Users\byoshi\Source\Repos\YorN\YorN\YorN\YorN.WindowsPhone\bin\Debug\YorN.WindowsPhone.exe
@@ -82,16 +81,12 @@ C:\Users\byoshi\Source\Repos\YorN\YorN\YorN\YorN.WindowsPhone\bin\Debug\System.N
 C:\Users\byoshi\Source\Repos\YorN\YorN\YorN\YorN.WindowsPhone\obj\Debug\YorN.WindowsPhone.csprojResolveAssemblyReference.cache
 C:\Users\byoshi\Source\Repos\YorN\YorN\YorN\YorN.WindowsPhone\obj\Debug\App.g.i.cs
 C:\Users\byoshi\Source\Repos\YorN\YorN\YorN\YorN.WindowsPhone\obj\Debug\App.g.cs
-C:\Users\byoshi\Source\Repos\YorN\YorN\YorN\YorN.WindowsPhone\obj\Debug\LoginPage.g.i.cs
-C:\Users\byoshi\Source\Repos\YorN\YorN\YorN\YorN.WindowsPhone\obj\Debug\LoginPage.g.cs
 C:\Users\byoshi\Source\Repos\YorN\YorN\YorN\YorN.WindowsPhone\obj\Debug\NewQuestionPage.g.i.cs
 C:\Users\byoshi\Source\Repos\YorN\YorN\YorN\YorN.WindowsPhone\obj\Debug\NewQuestionPage.g.cs
 C:\Users\byoshi\Source\Repos\YorN\YorN\YorN\YorN.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
 C:\Users\byoshi\Source\Repos\YorN\YorN\YorN\YorN.WindowsPhone\obj\Debug\App.xaml
-C:\Users\byoshi\Source\Repos\YorN\YorN\YorN\YorN.WindowsPhone\obj\Debug\LoginPage.xaml
 C:\Users\byoshi\Source\Repos\YorN\YorN\YorN\YorN.WindowsPhone\obj\Debug\NewQuestionPage.xaml
 C:\Users\byoshi\Source\Repos\YorN\YorN\YorN\YorN.WindowsPhone\obj\Debug\App.xbf
-C:\Users\byoshi\Source\Repos\YorN\YorN\YorN\YorN.WindowsPhone\obj\Debug\LoginPage.xbf
 C:\Users\byoshi\Source\Repos\YorN\YorN\YorN\YorN.WindowsPhone\obj\Debug\NewQuestionPage.xbf
 C:\Users\byoshi\Source\Repos\YorN\YorN\YorN\YorN.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
 C:\Users\byoshi\Source\Repos\YorN\YorN\YorN\YorN.WindowsPhone\obj\Debug\YorN.WindowsPhone.exe
@@ -112,3 +107,8 @@ C:\Users\byoshi\Source\Repos\YorN\YorN\YorN\YorN.WindowsPhone\obj\Debug\qualifie
 C:\Users\byoshi\Source\Repos\YorN\YorN\YorN\YorN.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
 C:\Users\byoshi\Source\Repos\YorN\YorN\YorN\YorN.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
 C:\Users\byoshi\Source\Repos\YorN\YorN\YorN\YorN.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+C:\Users\byoshi\Source\Repos\YorN\YorN\YorN\YorN.WindowsPhone\bin\Debug\SignUpPage.xbf
+C:\Users\byoshi\Source\Repos\YorN\YorN\YorN\YorN.WindowsPhone\obj\Debug\SignUpPage.g.i.cs
+C:\Users\byoshi\Source\Repos\YorN\YorN\YorN\YorN.WindowsPhone\obj\Debug\SignUpPage.g.cs
+C:\Users\byoshi\Source\Repos\YorN\YorN\YorN\YorN.WindowsPhone\obj\Debug\SignUpPage.xaml
+C:\Users\byoshi\Source\Repos\YorN\YorN\YorN\YorN.WindowsPhone\obj\Debug\SignUpPage.xbf

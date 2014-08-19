@@ -64,7 +64,7 @@
       <RootProperty Name="Content" />
       <RootEvent Name="Click" />
     </RootType>
-    <RootType FullName="YorN.LoginPage" />
+    <RootType FullName="YorN.SignUpPage" />
     <RootType FullName="Windows.UI.Xaml.Controls.Hub">
       <RootProperty Name="Header" />
       <RootProperty Name="Background" />

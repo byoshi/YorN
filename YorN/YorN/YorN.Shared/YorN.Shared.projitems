@@ -15,8 +15,8 @@
     <Compile Include="$(MSBuildThisFileDirectory)App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
-    <Compile Include="$(MSBuildThisFileDirectory)LoginPage.xaml.cs">
-      <DependentUpon>LoginPage.xaml</DependentUpon>
+    <Compile Include="$(MSBuildThisFileDirectory)SignUpPage.xaml.cs">
+      <DependentUpon>SignUpPage.xaml</DependentUpon>
     </Compile>
     <Compile Include="$(MSBuildThisFileDirectory)NewQuestionPage.xaml.cs">
       <DependentUpon>NewQuestionPage.xaml</DependentUpon>
@@ -24,7 +24,7 @@
     <Compile Include="$(MSBuildThisFileDirectory)User.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Page Include="$(MSBuildThisFileDirectory)LoginPage.xaml">
+    <Page Include="$(MSBuildThisFileDirectory)SignUpPage.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

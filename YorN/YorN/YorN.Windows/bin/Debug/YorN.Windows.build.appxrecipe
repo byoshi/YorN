@@ -146,8 +146,8 @@
     <AppxPackagedFile Include="C:\Users\byoshi\Source\Repos\YorN\YorN\YorN\YorN.Windows\bin\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\byoshi\Source\Repos\YorN\YorN\YorN\YorN.Windows\bin\Debug\LoginPage.xbf">
-      <PackagePath>LoginPage.xbf</PackagePath>
+    <AppxPackagedFile Include="C:\Users\byoshi\Source\Repos\YorN\YorN\YorN\YorN.Windows\bin\Debug\SignUpPage.xbf">
+      <PackagePath>SignUpPage.xbf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\byoshi\Source\Repos\YorN\YorN\YorN\YorN.Windows\bin\Debug\NewQuestionPage.xbf">
       <PackagePath>NewQuestionPage.xbf</PackagePath>

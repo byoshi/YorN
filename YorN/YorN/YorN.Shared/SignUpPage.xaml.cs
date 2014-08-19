@@ -20,9 +20,9 @@ namespace YorN
     /// <summary>
     /// An empty page that can be used on its own or navigated to within a Frame.
     /// </summary>
-    public sealed partial class LoginPage : Page
+    public sealed partial class SignUpPage : Page
     {
-        public LoginPage()
+        public SignUpPage()
         {
             this.InitializeComponent();
         }
@@ -37,6 +37,7 @@ namespace YorN
             };
 
             App.MobileService.GetTable<User>().InsertAsync(user);
+            Frame.Navigate(typeof(NewQuestionPage));
         }
     }
 }

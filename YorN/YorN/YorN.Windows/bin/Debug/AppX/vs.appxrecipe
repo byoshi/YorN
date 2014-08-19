@@ -20,13 +20,13 @@
     <AppXManifest Include="C:\Users\byoshi\Source\Repos\YorN\YorN\YorN\YorN.Windows\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-08-18T05:09:35.542</Modified>
+      <Modified>2014-08-19T05:18:16.319</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\byoshi\Source\Repos\YorN\YorN\YorN\YorN.Windows\bin\Debug\YorN.Windows.exe">
       <PackagePath>YorN.Windows.exe</PackagePath>
-      <Modified>2014-08-18T05:36:48.682</Modified>
+      <Modified>2014-08-19T05:19:20.881</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\byoshi\Source\Repos\YorN\YorN\packages\Microsoft.Data.Edm.5.6.0\lib\portable-net40+sl5+wp8+win8\Microsoft.Data.Edm.Portable.dll">
       <PackagePath>Microsoft.Data.Edm.Portable.dll</PackagePath>
@@ -194,23 +194,23 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\byoshi\Source\Repos\YorN\YorN\YorN\YorN.Windows\bin\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2014-08-18T05:09:32.076</Modified>
+      <Modified>2014-08-18T05:51:57.437</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\byoshi\Source\Repos\YorN\YorN\YorN\YorN.Windows\bin\Debug\LoginPage.xbf">
-      <PackagePath>LoginPage.xbf</PackagePath>
-      <Modified>2014-08-18T05:36:48.404</Modified>
+    <AppxPackagedFile Include="C:\Users\byoshi\Source\Repos\YorN\YorN\YorN\YorN.Windows\bin\Debug\SignUpPage.xbf">
+      <PackagePath>SignUpPage.xbf</PackagePath>
+      <Modified>2014-08-19T05:19:20.605</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\byoshi\Source\Repos\YorN\YorN\YorN\YorN.Windows\bin\Debug\NewQuestionPage.xbf">
       <PackagePath>NewQuestionPage.xbf</PackagePath>
-      <Modified>2014-08-18T05:09:32.078</Modified>
+      <Modified>2014-08-18T05:51:57.439</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\byoshi\Source\Repos\YorN\YorN\YorN\YorN.Windows\bin\Debug\YorN.Windows.xr.xml">
       <PackagePath>YorN.Windows.xr.xml</PackagePath>
-      <Modified>2014-08-18T05:36:48.314</Modified>
+      <Modified>2014-08-19T05:19:20.588</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\byoshi\Source\Repos\YorN\YorN\YorN\YorN.Windows\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2014-08-18T05:09:35.364</Modified>
+      <Modified>2014-08-19T05:19:22.214</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
